@@ -1,0 +1,8 @@
+INFO: Application started
+INFO: User login successful
+WARNING: Disk usage at 85%
+ERROR: Failed to connect to database
+INFO: Scheduled task completed
+ERROR: Timeout while fetching data
+WARNING: Memory usage high
+INFO: Application shutdown
